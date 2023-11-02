@@ -2,10 +2,10 @@
   
 
 <div align="center">
-<a href="https://github.com/https://github.com/CrlTrndad" target="_blank">
+<a href="https://github.com/CrlTrndad" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mlctrinidad-11562b294" target="_blank">
+<a href="https://www.linkedin.com/in/mlctrinidad" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.behance.net/CrlTrndad" target="_blank">
@@ -22,9 +22,9 @@
 
 
 ### Glad to see you here!  
-Passionate Web Developer and Graphic Designer with a knack for turning ideas into visually stunning and functional digital experiences. As a versatile Virtual Assistant, I thrive on efficiently managing tasks to bring creativity and technical expertise to the forefront. Let's collaborate and elevate your online presence with innovation and precision!
+Passionate Web Developer and Graphic Designer with a knack for turning ideas into visually stunning and functional digital experiences. As a versatile Web Developer, I thrive on efficiently managing tasks to bring creativity and technical expertise to the forefront. Let's collaborate and elevate your online presence with innovation and precision!
 
-Ready to transform your digital presence? Whether it's crafting dynamic websites, designing captivating graphics, or streamlining your tasks as a Virtual Assistant, I'm here to bring your vision to life.
+Ready to transform your digital presence? Whether it's crafting dynamic websites, designing captivating graphics, or streamlining your tasks as a Web Developer, I'm here to bring your vision to life.
 
 Let's discuss how we can achieve your goals together. Connect with me on LinkedIn or drop me an email at trnddcarla.work2022@gmail.com.
 
