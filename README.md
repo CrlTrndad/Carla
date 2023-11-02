@@ -12,7 +12,7 @@
 </a>  
   
 
-<img src="https://github.com/CrlTrndad/portfolio/blob/main/Profile%20Banner_Job.png" align="left" height="" width="600" />  
+<img src="https://github.com/CrlTrndad/Carla/blob/main/Profile%20Banner_Job.png" align="left" height="" width="600" />  
   
 
 
